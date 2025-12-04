@@ -152,6 +152,7 @@ npm install
 pip install pandas numpy scikit-learn joblib xgboost
 
 # Place your trained models in backend/models/
+# Models can be obtained by running the jupyter notebooks files in models folder using the dataset: (https://www.kaggle.com/datasets/nyagami/ea-sports-fc-25-database-ratings-and-stats)
 # Required files:
 # - best_xgb_regr_oerall.pkl
 # - ovr_feature_scaler.pkl
