@@ -152,7 +152,9 @@ npm install
 pip install pandas numpy scikit-learn joblib xgboost
 
 # Place your trained models in backend/models/
-# Models can be obtained by running the jupyter notebooks files in models folder using the dataset: (https://www.kaggle.com/datasets/nyagami/ea-sports-fc-25-database-ratings-and-stats)
+# Models can be obtained by running the Jupyter notebook files in the `models` folder using the [dataset here](https://www.kaggle.com/datasets/nyagami/ea-sports-fc-25-database-ratings-and-stats).
+
+# For more detailed information, please check out my other project [here](https://github.com/muahmad232/FC-25-Player-Analytics-and-Prediction-System).
 # Required files:
 # - best_xgb_regr_oerall.pkl
 # - ovr_feature_scaler.pkl
@@ -570,9 +572,8 @@ SOFTWARE.
 ## 📧 Contact
 
 **Project Maintainer**: Muhammad Ahmad
-- 📧 Email: ahmadnaul.495@gmail.com
-- 🐙 GitHub: [@yourusername](https://github.com/muahmad232)
-- 🔗 LinkedIn: [Your LinkedIn]((https://www.linkedin.com/in/muhammad-ahmad-517324372?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
+- 📧 Email: ahmadnaul.495@gmail.com- 🐙 GitHub: [@muahmad232](https://github.com/muahmad232)
+- 🔗 LinkedIn: [Muhammad Ahmad](https://www.linkedin.com/in/muhammad-ahmad-517324372)
 
 **Project Link**: [https://github.com/muahmad232/football-ai-predictor](https://github.com/muahmad232/football-ai-predictor)
 
