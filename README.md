@@ -1,11 +1,12 @@
 # ⚽ Football Player AI Predictor
 
 <div align="center">
-
+  
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![React](https://img.shields.io/badge/React-18.0+-61DAFB.svg?logo=react)
 ![Node](https://img.shields.io/badge/Node.js-16.0+-339933.svg?logo=node.js)
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB.svg?logo=python)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626.svg?logo=jupyter&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 **Next-Generation AI-Powered Football Player Analytics Platform**
